@@ -33,4 +33,3 @@ public class MoodAnalyserTest {
 		Assert.assertEquals("SAD", moodAnalyser.analyseMood());
 	}
 }
-
